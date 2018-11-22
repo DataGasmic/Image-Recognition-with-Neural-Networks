@@ -7,6 +7,6 @@ I have tried to diversify the repository by significantly working with variety o
 great importance in the field of Machine Learning and Computer Vision.
 
 Python has been used as the standard language for all these projects. Tensor Flow and Theano has been used wherever Deep Learning 
-or Neural Networks come to Play! 
+or Neural Networks come to Play! OpenCV, Keras and many other relevant libraries have been used.
 
 For any doubts or queries just drop a mail at : pranjalbiyani1996@gmail.com
